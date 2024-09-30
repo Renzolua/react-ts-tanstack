@@ -1,2 +1,2 @@
-# react-ts-tanstack
+# react-init
 react-ts-tanstack
